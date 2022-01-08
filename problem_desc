@@ -1,0 +1,10 @@
+Over on YouTube, Michael Penn proves that the sum of reciprocals of the
+palindromes converges:
+
+\sum_{p \in PALIN} 1/p
+
+But he doesn’t compute the value to which the sum converges.
+
+Your task is to compute the infinite sum. When you are finished, you are welcome
+to read a suggested solution, or to post your own solution or discuss the
+exercise in the comments below.
