@@ -39,7 +39,7 @@ int main(int argc, char **argv) {
         sum += 1.0 / (double)(PGenerator_Next(&state));
     }
 
-    printf("Resulting sum == %lf, last state is %llu\n", sum, state.current);
+    printf("Resulting sum == %.16lf, last state is %llu\n", sum, state.current);
 
     return 0;
 }
