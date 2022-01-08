@@ -1,2 +1,4 @@
 src/*.o
 ReciprocalOfPalindromes
+.cache
+compile_commands.json
